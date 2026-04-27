@@ -37,7 +37,7 @@ This project solves that by creating a **simple, fun, and demo-able game** that 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript  
 - Logic: JavaScript  
-- Blockchain: Stellar + Soroban Smart Contracts  
+- Blockchain: Stellar + Soroban Smart Contracts
 
 ---
 
@@ -46,4 +46,13 @@ This project is:
 - Easy to understand for beginners  
 - Fun and interactive for demos  
 - A practical example of blockchain rewards  
-- Perfect for school or bootcamp presentations  
+- Perfect for school or bootcamp presentations
+
+## deployed smart contract link
+-https://stellar.expert/explorer/testnet/tx/05b6164e541272c25880bf514e3fd2ae176f4a04c3ecd0d63f622119ff77a8e1
+-https://lab.stellar.org/r/testnet/contract/CAG7OHMZMZGRZF5XWE6CPU7WKWLU6F4OAPLNNVCCW6EBXT5YAEVU5ABO
+<img width="1401" height="902" alt="image" src="https://github.com/user-attachments/assets/4e20ab40-1b84-45a9-b352-eba9c61714ba" />
+
+
+##contract ID
+-CAG7OHMZMZGRZF5XWE6CPU7WKWLU6F4OAPLNNVCCW6EBXT5YAEVU5ABO
